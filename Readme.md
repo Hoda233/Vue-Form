@@ -5,8 +5,7 @@
 - [About](#about)
 - [Prerequisites](#prerequisites)
 - [Setup](#setup)
-- [Features](#features)
-- [Demo](#demo)
+- [Screenshots](#screenshots)
 
 ## About
 
@@ -36,6 +35,6 @@ npm run serve
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-## Demo
+## Screenshots
 ![Alt Text](Screenshot%20(2071).png)
 ![Alt Text](Screenshot%20(2073).png)
